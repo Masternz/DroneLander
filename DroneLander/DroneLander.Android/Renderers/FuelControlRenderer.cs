@@ -20,6 +20,7 @@ namespace DroneLander.Droid.Renderers
 {
     public class FuelControlRenderer : ProgressBarRenderer
     {
+        // test check in
         protected override void OnElementChanged(ElementChangedEventArgs<Xamarin.Forms.ProgressBar> e)
         {
             base.OnElementChanged(e);
